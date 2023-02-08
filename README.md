@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto contrução" src=".github/preview.jpg" width="100%">
+  <img alt="projeto contrução" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚧 Status
@@ -34,13 +34,12 @@ Em desenvolvimento...
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML & CSS
-- JavaScript
 - Git & Github
 - Figma
 
 ## 💻 Projeto
 
-  Calculadora desenvolvida com a parte de interação com JavaScript. Você pode acessar o projeto online através [desse link](https://vagner-jr.github.io/Calculator/).
+  Ainda não consegui fazer um projeto como esse de usar multiplas funcionalidades do JS para fazer os calculos e para que os números apareçam a tela, mas segui com os estudos e não pretendo parar. Logo menos darei uma olhada nesse projeto para tornalo funcional. Você pode acessar o projeto online através [desse link](https://vagner-jr.github.io/Calculator/).
 
 ## 🔖 Layout
 
